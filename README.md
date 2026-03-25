@@ -34,4 +34,12 @@ git config --global user.name "Your Name"
 Automáticamente ele vai abrir uma caixinha pode confirmar!
 
 
+# Branchs
+
+1) Criar uma branch 
+EX: 'dev'
+
+2) No terminal:
+- git fetch
+- git checkout NOMEDABRANCH
 
