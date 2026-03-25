@@ -36,10 +36,18 @@ Automáticamente ele vai abrir uma caixinha pode confirmar!
 
 # Branchs
 
-1) Criar uma branch 
+1) Criar uma branch na plataforma do github
 EX: 'dev'
 
 2) No terminal:
 - git fetch
 - git checkout NOMEDABRANCH
 
+# Pull Request
+
+1) clicar em pull request
+2) clicar em new pull request
+3) clicar em create pull request
+4) clicar em create pull request OBS: se quiser mande uma mensagem
+5) clicar em Marge Pull request
+6) clicar em Confirm pull request
