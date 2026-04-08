@@ -1,0 +1,3 @@
+Nome: Jessica Silva  
+Curso: Análise e Desenvolvimento de Sistemas  
+Objetivo: Aprender Git na prática
